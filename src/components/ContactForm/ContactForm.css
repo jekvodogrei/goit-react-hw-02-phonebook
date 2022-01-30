@@ -1,0 +1,39 @@
+.ContactForm {
+  margin: 0 auto;
+  padding: 15px;
+  width: 20vw;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+  height: 20px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+button {
+  padding: 5px 10px;
+  border-radius: 1px;
+  background-color: white;
+  color: rgb(41, 7, 231);
+  cursor: pointer;
+}
+
+.AddContact__Btn {
+  margin-top: 10px;
+  background-color: rgb(211, 197, 151);
+  border-radius: 22px;
+  border: 0;
+}
+button:hover {
+  background-color: rgb(188, 211, 221);
+}
+
+label {
+  display: inline-block;
+  margin: 0 auto;
+  text-align: left;
+  color: rgb(52, 54, 194);
+}
